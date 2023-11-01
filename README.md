@@ -41,7 +41,7 @@ Install all the packages using pip command pip package_name
 
 # Clone the repository
 
-git clone https://github.com/PrNirmal/Naan-Mudhalvan.git
+git clone https://github.com/syedjaleel850/Naan-Mudhalvan.git
 
 # Change to the project directory
 cd Naan-Mudhalvan
